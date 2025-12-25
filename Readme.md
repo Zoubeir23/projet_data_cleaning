@@ -2,6 +2,7 @@
 
 ## 📝 Informations sur le Projet
 * **Auteurs** : Zoubeir IBRAHIMA AMED
+*  **Emails** : Zoubeiribrahima@gmail.com
 
 ---
 
