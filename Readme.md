@@ -1,14 +1,7 @@
 # 🧹 API d'Automatisation de Traitement de Données (Data Cleaning)
 
 ## 📝 Informations sur le Projet
-
-* **Institut :** Institut Supérieur d’Informatique (ISI)
-* **Classe :** Master 1 IAGE
-* **Module :** Projet Python
-* **Professeur :** Monsieur BARRO
-* **Auteurs (Binôme) :**
-    * [NOM Prénom de l'étudiant 1]
-    * [NOM Prénom de l'étudiant 2]
+* **Auteurs** : Zoubeir IBRAHIMA AMED
 
 ---
 
